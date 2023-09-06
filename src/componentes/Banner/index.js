@@ -8,7 +8,7 @@ export default function Banner() {
       <div className={styles.apresentacao}>
         <h1 className={styles.titulo}>Olá, Mundo!</h1>
         <p className={styles.paragrafo}>
-          Boas vindas ao meu espaço pessoal! Eu sou Alex Santo Pinto, estudande
+          Boas vindas ao meu espaço pessoal! Eu sou Alex Santos Pinto, estudande
           de Front-end da Alura. Aqui compartilho vários conhecimentos, espero
           que aprenda algo novo <span>😀</span>
         </p>
